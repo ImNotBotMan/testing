@@ -1,0 +1,2 @@
+print(pipka)
+print(2)
