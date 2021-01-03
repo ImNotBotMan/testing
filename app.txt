@@ -1,0 +1,3 @@
+print(pipka)
+print(2)
+text(3)
